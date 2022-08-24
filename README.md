@@ -1,2 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aLoNsolml/mat281_portfolio_template/master?urlpath=lab)
-* __Licencia__: [MIT](./LICENCE.md)
+# Carleman estimates and weight functions
+
+Here you can find an optimization problem to construct a particular weight function which will allow us to obtain a Carleman estimate for a linear Korteweg-de Vries equation. As a consequence, it is specified a time from which the uniform null controollability of the equation holds.
